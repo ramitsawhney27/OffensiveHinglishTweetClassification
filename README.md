@@ -1,7 +1,7 @@
 # OffensiveHinglishTweetClassification
 Code and Data for our work on Offensive Hinglish Tweet Classification - EMNLP 2018
 
-# Abstract
+## Abstract
 The use of code-switched languages (e.g., Hinglish, which is derived by the blending of Hindi with the English language) is getting
 much popular on Twitter due to their ease of communication in native languages.
 However, spelling variations and absence of grammar rules introduce ambiguity and make it difficult to understand the text automatically.
@@ -13,6 +13,8 @@ transfer learning.
 The proposed MIMCT model outperforms the baseline supervised classification models, transfer learning basedCNN and LSTM models to establish itself as the state of the art in the unexplored domain of Hinglish offensive text classification.
 
 If using any of our resources, please cite using:
+
+```
 @inproceedings{mathur2018did,
   title={Did you offend me? classification of offensive tweets in hinglish language},
   author={Mathur, Puneet and Sawhney, Ramit and Ayyar, Meghna and Shah, Rajiv},
@@ -20,3 +22,4 @@ If using any of our resources, please cite using:
   pages={138--148},
   year={2018}
 }
+```
